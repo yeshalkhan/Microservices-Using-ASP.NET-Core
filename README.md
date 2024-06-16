@@ -1,1 +1,1 @@
-This repository contains the code to create a simple Book Store microservice using ASP.NET Core Web API. The UI is designed using Swagger. This service has its own DBcontext and database with the isolated repository so that it could be deployed independently.
+This repository contains the code to create a simple Book Store microservice using ASP.NET Core Web API. The UI is designed using Swagger. User can perform CRUD operations on books.This service has its own DBcontext and database with the isolated repository so that it could be deployed independently.
